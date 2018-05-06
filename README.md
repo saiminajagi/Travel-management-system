@@ -1,6 +1,8 @@
 # Travel-management-system
 A simple Tour and Travel Management appication in Java.
 
+UML Diagrams are also acknowledged here
+
 It allows user to
 
   1.USER REGISTRATION
